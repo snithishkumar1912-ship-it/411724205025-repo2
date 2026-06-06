@@ -1,0 +1,61 @@
+body{
+    color:brown;
+    background-color:black;
+}
+p{
+    
+    font-size: 20px;
+    color: brown;
+    font-style: italic;
+}
+img{
+    height: 500px;
+    width: 500px;
+    border-radius: 100px;
+}
+video{
+    border-radius: 100px;
+}
+ul{
+    list-style-type: lower-alpha;
+}
+h1{
+    padding: 50px;
+    border: 1px solid brown;
+    margin: 50px;
+}
+button{
+    background-color: goldenrod;
+    padding: 10px;
+    margin: 20px;
+    
+}
+button:hover{
+    background-color: brown;
+    
+}
+table, th, td {
+    border: 1px solid white;
+    border-collapse: collapse;
+}
+nav{
+    display: flex;
+    flex-direction: row;
+    gap: 60px;
+}
+#p1{
+    font-style: italic;
+    color: 
+
+}
+#p2{
+    font-style: normal;
+}
+.group{
+    font-size: xx-large;
+}
+.grid{
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+
+}
